@@ -7,5 +7,6 @@ Daftar tim dibuat secara statis sehingga tidak memiliki inputan user. Daftar tim
 pada kode program bagian file bernama main (C++, Java, Python) dan index (php).
 
 Berikut ini adalah output yang dihasilkan:
+![Screenshot (1544)](https://user-images.githubusercontent.com/95666745/153889580-8e468354-65ce-42f5-be24-7852666e2abc.png)
 
-C++
+
