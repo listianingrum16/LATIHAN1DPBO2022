@@ -3,5 +3,9 @@
 Program yang dibuat yaitu program untuk menampilkan daftar tim sepak bola yang terdiri dari 3 tim.
 Setiap timnya memiliki atribut nama tim, negara asal tim, tahun tim didirikan, dan nama 3 pemain.
 
-Daftar tim hanya dibuat secara statis dan tidak memiliki inputan user sehingga semua tim sudah diset
-di kode program bagian file bernama main (C++, Java, Python) dan index (php).
+Daftar tim dibuat secara statis sehingga tidak memiliki inputan user. Daftar tim diset langsung
+pada kode program bagian file bernama main (C++, Java, Python) dan index (php).
+
+Berikut ini adalah output yang dihasilkan:
+
+C++
